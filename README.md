@@ -1,10 +1,220 @@
 ## Search: "uncertainty quantification object detection autonomous vehicles"
 
 ### Link:
-12323  
+### Year: 
+### Additional links:
 
 ### Abstract:
 
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
+
+
+### Link:
+### Year: 
+### Additional links:
+
+### Abstract:
 
 
 
