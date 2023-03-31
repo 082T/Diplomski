@@ -70,7 +70,7 @@
 ### Abstract:
 
 
-### Link:
+### Link: https://openaccess.thecvf.com/content/ICCV2021/papers/Lu_Geometry_Uncertainty_Projection_Network_for_Monocular_3D_Object_Detection_ICCV_2021_paper.pdf
 ### Year: 
 ### Additional links:
 
