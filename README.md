@@ -38,10 +38,26 @@ https://prnt.sc/o4eMuT2Pzu6S
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
 ### Link: https://link.springer.com/article/10.1007/s42154-021-00154-0
-### Year: 
+### Year: 2021
 ### Additional links:
 
 ### Abstract:
+
+The safety of the intended functionality (SOTIF) has become one of the hottest topics in the feld of autonomous driving.
+However, no testing and evaluating system for SOTIF performance has been proposed yet. Therefore, this paper proposes a
+framework based on the advanced You Only Look Once (YOLO) algorithm and the mean Average Precision (mAP) method
+to evaluate the object detection performance of the camera under SOTIF-related scenarios. First, a dataset is established,
+which contains road images with extreme weather and adverse lighting conditions. Second, the Monte Carlo dropout (MCD)
+method is used to analyze the uncertainty of the algorithm and draw the uncertainty region of the predicted bounding box.
+Then, the confdence of the algorithm is calibrated based on uncertainty results so that the average confdence after calibration can better refect the real accuracy. The uncertainty results and the calibrated confdence are proposed to be used for
+online risk identifcation. Finally, the confusion matrix is extended according to the several possible mistakes that the object
+detection algorithm may make, and then the mAP is calculated as an index for ofine evaluation and comparison. This paper
+ofers suggestions to apply the MCD method to complex object detection algorithms and to fnd the relationship between
+the uncertainty and the confdence of the algorithm. The experimental results verifed by specifc SOTIF scenarios proof the
+feasibility and efectiveness of the proposed uncertainty acquisition approach for object detection algorithm, which provides
+potential practical implementation chance to address perceptual related SOTIF risk for autonomous vehicles.
+
+### My notes:
 
 
 -----------------------------------------------------------------------------------------------
