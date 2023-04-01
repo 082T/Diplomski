@@ -31,6 +31,10 @@ autonomous driving
 
 ### My notes:
 
+MC dropout based predictions.  
+DBSCAN. (convex hull)  
+https://prnt.sc/o4eMuT2Pzu6S
+
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
 ### Link: https://link.springer.com/article/10.1007/s42154-021-00154-0
