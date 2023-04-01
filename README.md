@@ -1,7 +1,7 @@
 ## Search: "uncertainty quantification object detection autonomous vehicles"
 
 ### Link: https://arxiv.org/pdf/2107.04991.pdf
-### Year: 
+### Year: 2021
 ### Additional links:
 
 ### Abstract:
