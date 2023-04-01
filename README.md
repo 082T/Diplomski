@@ -63,11 +63,36 @@ potential practical implementation chance to address perceptual related SOTIF ri
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
 ### Link: https://kth.diva-portal.org/smash/get/diva2:1618103/FULLTEXT01.pdf
-### Year: 
+### Year: 2020
 ### Additional links:
 
 ### Abstract:
 
+One of the most challenging problems in autonomous driving, and in computer vision in general, is the task of object detection. Recently, the advances
+of deep learning in the domain of computer vision have led the research community to apply ideas from deep learning to the problem of object detection.
+Such frameworks have shown promising results by outperforming all of the
+traditional approaches based on hand-crafted features. However, deep neural
+networks fail to provide reliability measurement for their predictions, which
+is a crucial requirement for critical systems. Moreover, it has been shown that
+deep neural networks tend to give more overconfident predictions compared
+to their shallow counterpart.
+Our objective with the current degree project is to review popular deep
+neural object detection frameworks and to investigate methods for uncertainty
+estimation in deep convolutional neural networks. Additionally, we would like
+to find out if applying a method of uncertainty estimation could improve the
+performance of a deep neural object detector in terms of standard object detection metrics such as average precision and log average miss rate. Moreover,
+we aim at discovering if an approach for measuring reliability improves the
+calibration quality of an object detector. Finally, we focus on investigating if
+uncertainty estimates could be utilised for detecting misclassified examples or
+highly occluded/truncated objects within an image.
+In order to answer these questions, we construct a variety of experiments
+that investigate different setups and conditions. Overall, we found that uncertainty estimation is a promising approach for alleviating overconfidence in
+deep neural networks as well as for providing a reliability measurement for all
+predictions.
+
+### My notes:
+
+Monte Carlo dropout to YOLOv3
 
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
