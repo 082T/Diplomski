@@ -102,6 +102,21 @@ Monte Carlo dropout to YOLOv3
 
 ### Abstract:
 
+Deep neural network algorithms have achieved impressive performance in object detection.
+Real-time evaluation of perception uncertainty from deep neural network algorithms is indispensable
+for safe driving in autonomous vehicles. More research is required to determine how to assess the
+effectiveness and uncertainty of perception findings in real-time.This paper proposes a novel real-time
+evaluation method combining multi-source perception fusion and deep ensemble. The effectiveness
+of single-frame perception results is evaluated in real-time. Then, the spatial uncertainty of the
+detected objects and influencing factors are analyzed. Finally, the accuracy of spatial uncertainty is
+validated with the ground truth in the KITTI dataset. The research results show that the evaluation of
+perception effectiveness can reach 92% accuracy, and a positive correlation with the ground truth is
+found for both the uncertainty and the error. The spatial uncertainty is related to the distance and
+occlusion degree of detected objects
+
+### My notes:
+
+Ansambli
 
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
