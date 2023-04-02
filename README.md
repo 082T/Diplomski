@@ -121,11 +121,24 @@ Ansambli
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
 ### Link: https://ceur-ws.org/Vol-2640/paper_24.pdf
-### Year: 
+### Year: 2020
 ### Additional links:
 
 ### Abstract:
 
+A key factor for ensuring safety in Autonomous Vehicles (AVs) is to avoid any abnormal behaviors
+under undesirable and unpredicted circumstances.
+As AVs increasingly rely on Deep Neural Networks (DNNs) to perform safety-critical tasks, different methods for uncertainty quantification have
+recently been proposed to measure the inevitable
+source of errors in data and models. However, uncertainty quantification in DNNs is still a challenging task. These methods require a higher computational load, a higher memory footprint, and introduce extra latency, which can be prohibitive in
+safety-critical applications. In this paper, we provide a brief and comparative survey of methods for
+uncertainty quantification in DNNs along with existing metrics to evaluate uncertainty predictions.
+We are particularly interested in understanding the
+advantages and downsides of each method for specific AV tasks and types of uncertainty sources.
+
+### My notes:
+
+https://prnt.sc/cO9Va2aFzfGd
 
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
