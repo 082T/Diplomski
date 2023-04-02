@@ -157,6 +157,8 @@ https://prnt.sc/cO9Va2aFzfGd
 
 ### Abstract:
 
+### My notes:
+
 Multiple vehicle collaboration. Not in todays stage of ADAS.
 
 -----------------------------------------------------------------------------------------------
