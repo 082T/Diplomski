@@ -152,11 +152,12 @@ https://prnt.sc/cO9Va2aFzfGd
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
 ### Link: https://coperception.github.io/double-m-quantification/
-### Year: 
+### Year: 2023
 ### Additional links:
 
 ### Abstract:
 
+Multiple vehicle collaboration. Not in todays stage of ADAS.
 
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
@@ -170,19 +171,81 @@ https://prnt.sc/cO9Va2aFzfGd
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
 ### Link: https://ras.papercept.net/images/temp/IROS/files/0039.pdf
-### Year: 
+### Year: 2020
 ### Additional links:
 
 ### Abstract:
+
+The capability to detect objects is a core part
+of autonomous driving. Due to sensor noise and incomplete
+data, perfectly detecting and localizing every object is infeasible.
+Therefore, it is important for a detector to provide the amount
+of uncertainty in each prediction. Providing the autonomous
+system with reliable uncertainties enables the vehicle to react
+differently based on the level of uncertainty. Previous work
+has estimated the uncertainty in a detection by predicting a
+probability distribution over object bounding boxes. In this
+work, we propose a method to improve the ability to learn the
+probability distribution by considering the potential noise in the
+ground-truth labeled data. Our proposed approach improves
+not only the accuracy of the learned distribution but also the
+object detection performance.
+
+### My notes:
+
+In this work, we improve upon LaserNet [10] which
+is a LiDAR-based probabilistic object detector. LaserNet
+estimates the uncertainty in its detections by predicting a
+probability distribution over bounding boxes for each object.
+In the following sections, we will review how the previous
+work learns a probability distribution and propose an alternative approach.
+
+
+https://openaccess.thecvf.com/content_CVPR_2019/papers/Meyer_LaserNet_An_Efficient_Probabilistic_3D_Object_Detector_for_Autonomous_Driving_CVPR_2019_paper.pdf
+
+
+Experiments show
+that modeling each detection as a distribution rather than
+a single deterministic box leads to better overall detection
+performance. Benchmark results show that this approach
+has significantly lower runtime than other recent detectors
+and that it achieves state-of-the-art performance when compared on a large dataset that has enough data to overcome
+the challenges of training on the range view.
+
+
+https://prnt.sc/tGsVvEZNo874
 
 
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
 ### Link: https://mediatum.ub.tum.de/doc/1637914/1637914.pdf
-### Year: 
+### Year: 2021
 ### Additional links:
 
 ### Abstract:
+
+Estimating the uncertainty of a neural network plays
+a fundamental role in safety-critical settings. In perception for
+autonomous driving, measuring the uncertainty means providing
+additional calibrated information to downstream tasks, such as
+path planning, that can use it towards safe navigation. In this
+work, we propose a novel sampling-free uncertainty estimation
+method for object detection. We call it CertainNet, and it is the
+first to provide separate uncertainties for each output signal:
+objectness, class, location and size. To achieve this, we propose
+an uncertainty-aware heatmap, and exploit the neighboring
+bounding boxes provided by the detector at inference time.
+We evaluate the detection performance and the quality of the
+different uncertainty estimates separately, also with challenging
+out-of-domain samples: BDD100K and nuImages with models
+trained on KITTI. Additionally, we propose a new metric to
+evaluate location and size uncertainties. When transferring to
+unseen datasets, CertainNet generalizes substantially better than
+previous methods and an ensemble, while being real-time and
+providing high quality and comprehensive uncertainty estimates.
+
+
+https://prnt.sc/2Q4opDf-p7UA
 
 
 -----------------------------------------------------------------------------------------------
@@ -194,6 +257,33 @@ https://prnt.sc/cO9Va2aFzfGd
 ### Abstract:
 
 
+Geometry Projection is a powerful depth estimation
+method in monocular 3D object detection. It estimates
+depth dependent on heights, which introduces mathematical priors into the deep model. But projection process also
+introduces the error amplification problem, in which the error of the estimated height will be amplified and reflected
+greatly at the output depth. This property leads to uncontrollable depth inferences and also damages the training efficiency. In this paper, we propose a Geometry Uncertainty
+Projection Network (GUP Net) to tackle the error amplification problem at both inference and training stages. Specifically, a GUP module is proposed to obtains the geometryguided uncertainty of the inferred depth, which not only
+provides high reliable confidence for each depth but also
+benefits depth learning. Furthermore, at the training stage,
+we propose a Hierarchical Task Learning strategy to reduce
+the instability caused by error amplification. This learning
+algorithm monitors the learning situation of each task by a
+proposed indicator and adaptively assigns the proper loss
+weights for different tasks according to their pre-tasks situation. Based on that, each task starts learning only when
+its pre-tasks are learned well, which can significantly improve the stability and efficiency of the training process.
+Extensive experiments demonstrate the effectiveness of the
+proposed method. The overall model can infer more reliable object depth than existing methods and outperforms
+the state-of-the-art image-based monocular 3D detectors by
+3.74% and 4.7% AP40 of the car and pedestrian categories
+on the KITTI benchmark. The code and model will be released at https://github.com/SuperMHP/GUPNe
+
+### My notes:
+
+Dependent on 3D
+
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 ### Link:
 ### Year: 
 ### Additional links:
